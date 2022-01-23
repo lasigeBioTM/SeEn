@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="schatchy" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="schatchy">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/mbarros/semantic_sampler" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
