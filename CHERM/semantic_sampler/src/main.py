@@ -52,10 +52,10 @@ if __name__ == '__main__':
     # use: sample_dataset_random; sample_dataset_semantic_fast_add_after_multiple_files
 
     #new_dataset = sample_dataset_random(df_dataset, 2)
-    new_dataset = sample_dataset_random(df_dataset, 5, path_to_updated_csv)
+    #new_dataset = sample_dataset_random(df_dataset, 5, path_to_updated_csv)
     #new_dataset = sample_dataset_semantic_fast(mydb, df_dataset, n, path_to_updated_csv, host, user, password, database)
     #new_dataset = sample_dataset_semantic_fast_add_after(mydb, df_dataset, n, path_to_updated_csv, host, user, password, database)
-    #new_dataset = sample_dataset_semantic_fast_add_after_multiple_files(df_dataset, n, path_to_directory, host, user, password, database)
+    new_dataset = sample_dataset_semantic_fast_add_after_multiple_files(df_dataset, n, path_to_directory, host, user, password, database)
     #new_dataset = sample_dataset_semantic_fast_add_after_positive_negative(mydb, df_dataset, n, path_to_updated_csv, host, user, password, database)
 
 
